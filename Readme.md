@@ -1,18 +1,26 @@
-# Weather App
-Aplikasi ini bertujuan untuk menampilkan cuaca pada lokasi yang dipilih. Aplikasi ini menggunakan api dari open weather (https://openweathermap.org/api).
+Berikut adalah penjelasan yang telah diubah dengan link drive terbaru serta penyesuaian bahasa:
 
-## Cara Download
-Aplikasi ini dapat didownload pada link [ini](https://drive.google.com/drive/folders/1spHZotLzzlp21TcZYd6HklY7LMgxHVWY?usp=sharing) atau   
-`https://drive.google.com/drive/folders/1spHZotLzzlp21TcZYd6HklY7LMgxHVWY?usp=sharing` dan kemudian download file yang bernama `apk-release.apk`
+---
+
+# Weather App
+
+Aplikasi ini dirancang untuk menampilkan kondisi cuaca di lokasi yang dipilih oleh pengguna. Aplikasi menggunakan API dari OpenWeather (https://openweathermap.org/api) untuk mendapatkan data cuaca secara real-time.
 
 ## Fitur
-Aplikasi ini memiliki beberapa fitur yakni:
-- Menampilkan informasi prediksi cuaca hingga 3 hari ke depan 
-- Dapat dikonfigurasikan
-- Dapat auto-update cuaca
+
+Aplikasi ini memiliki beberapa fitur unggulan, yaitu:
+- Menampilkan informasi prediksi cuaca hingga 3 hari ke depan.
+- Dapat dikonfigurasi sesuai preferensi pengguna.
+- Mendukung auto-update cuaca secara berkala.
 
 ## Cara Penggunaan
-Untuk penggunaan aplikasi ini cukup mengetikan nama lokasi di search bar bagian atas, hasil pencarian akan ditampilkan di bawah
+
+Untuk menggunakan aplikasi ini, cukup ketik nama lokasi yang diinginkan di bilah pencarian di bagian atas, dan hasil pencarian cuaca akan ditampilkan di bawah.
 
 ## Demo Program
-![Demo_program](https://github.com/sihotang-yonathan1/weather_app-yonathan_sihotang-IONIC/blob/main/assets/demo_program.gif)
+
+![Demo_program]()
+
+---
+
+Semoga membantu!
